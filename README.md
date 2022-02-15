@@ -1,4 +1,4 @@
-# Introduccioón a Git y Github
+# Introducción a Git y Github
 
 En este repositorio se hace una breve introducción para el entendimiento y uso de Git y Github.
 
