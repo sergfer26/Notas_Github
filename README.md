@@ -11,7 +11,7 @@ Para utilizar Git de manera eficiente es necesario descargar alguna de las sigui
 - Git Bash
 [Descargar Git Bash](https://git-scm.com/downloads)
 - Git desktop
-- [Descargar Github Desktop](https://desktop.github.com/)
+[Descargar Github Desktop](https://desktop.github.com/)
 
 ---
 
